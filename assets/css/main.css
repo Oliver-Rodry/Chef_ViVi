@@ -243,6 +243,19 @@ input, select, textarea {
 		background-color: #F7E9D1;
 	}
 
+	#logo {
+		width: 2.3em;
+
+	}
+
+	#Logo_main {
+			background-attachment: fixed;
+			background-repeat: no-repeat;
+			background-size: 100% 100%;
+			max-height: 2.3em;
+			margin-top: 0.4em;
+	}
+
 /* Loader */
 
 	@-moz-keyframes spinner-show {
